@@ -40,7 +40,7 @@ const AllBooksPage = async () => {
   const booksResponse: IBook[] = books.data;
 
   // in die Konsole loggen
-  console.log(booksResponse);
+  // console.log(booksResponse);
 
   return (
     <>
